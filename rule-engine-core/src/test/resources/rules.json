@@ -1,0 +1,15 @@
+{
+  "name":"demo rules",
+  "rules":[
+    {
+      "id":"rule 1",
+      "condition":{"left":"person.age","op":">","right":"22"},
+      "action":""
+    },
+    {
+      "id":"rule 2",
+      "condition":{"left":"person.name", "op":"==" ,"right":"'Mradul Pandey'"},
+      "action":""
+    }
+  ]
+}
